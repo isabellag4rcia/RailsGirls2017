@@ -1,1 +1,2 @@
-# RailsGirls2017
+# Rails Girls Sorocaba 2017
+
